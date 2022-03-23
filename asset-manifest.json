@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/funny_project/static/css/main.01e7b75a.css",
+    "main.js": "/funny_project/static/js/main.328169c4.js",
+    "static/media/P_6.jpg": "/funny_project/static/media/P_6.87fa58b18774f7e1faeb.jpg",
+    "static/media/P_4.jpg": "/funny_project/static/media/P_4.8b0d77be9f8c12196a75.jpg",
+    "static/media/P_2.jpg": "/funny_project/static/media/P_2.783e543bfc15b743adfc.jpg",
+    "static/media/P_3.png": "/funny_project/static/media/P_3.02544099d58c35999c17.png",
+    "static/media/P_1.png": "/funny_project/static/media/P_1.393c28333ff78708bc27.png",
+    "static/media/P_5.png": "/funny_project/static/media/P_5.edc0ae6643f30d836820.png",
+    "static/media/21.svg": "/funny_project/static/media/21.21c2500284c899f63ad075f23894c1a5.svg",
+    "static/media/Group 6.svg": "/funny_project/static/media/Group 6.8bd6958e8443055a050a98f87c8c60e1.svg",
+    "index.html": "/funny_project/index.html",
+    "main.01e7b75a.css.map": "/funny_project/static/css/main.01e7b75a.css.map",
+    "main.328169c4.js.map": "/funny_project/static/js/main.328169c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01e7b75a.css",
+    "static/js/main.328169c4.js"
+  ]
+}
