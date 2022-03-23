@@ -1,0 +1,47 @@
+.button_green{
+  background-color: #38D600;
+  border-radius: 15px;
+  width: 320px;
+  height: 60px;
+  align-items: center;
+  text-align: center;
+  width:320px;
+  display: flex;
+  
+  &_a{
+    display: inline-block;
+    color: white;
+    
+    text-decoration:none;
+    padding: 14px 0px 18px 47px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 160.02%;
+    align-items: center;
+    text-align: center;
+    white-space: nowrap;
+
+    &_img{
+      display: inline-block;
+      height: 25px;
+      align-items: center;
+      text-align: center;
+     margin-left: 8.8px;
+      padding-right: 46px;
+    }
+  }
+ 
+}
+@media(max-width: 414px){
+  .button_green{
+    width: 260px;
+    &_a{
+    padding-left: 20px;
+    &_img{
+      padding-right: 20px;
+    }
+    }
+  }
+}

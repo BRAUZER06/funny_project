@@ -1,0 +1,38 @@
+.BlockCheckMark{
+  font-family: 'Inter', sans-serif;
+  padding: 0px 10px 0px 25px;
+  &_ul{
+    
+   
+    >li{
+      display: flex;
+      align-items: center;
+      list-style: none;
+      margin: 15px 0;
+      font-size: 21px;
+      img{
+        margin-right: 13px;
+        width: 23px;
+        height: 23px;
+      }
+      p{
+        font-style: normal;
+        font-weight: 600;
+        
+        
+      }
+    }
+    
+
+
+  }
+}
+@media(max-width:344px){
+  .BlockCheckMark{
+    padding: 0px 10px 0px 10px;
+    &_ul>li{
+      font-size: 18px;
+
+    }
+  }
+}
